@@ -2,6 +2,16 @@
 :root{
   --main-color:#3b82f6;
   --secondray:#64748b;
-  --background:#f9fafb;
+
   --text:#111827;
+ 
+    --main-color:#3b82f6;
+    --bg-color1:#202c3b;
+    --bg-color2:#202c3b;
+    --bg-color3:#364153;
+}
+
+body {
+  font-family: 'Inter', sans-serif; /* Default font */
+  /* background-color: var(--background-color); */
 }
